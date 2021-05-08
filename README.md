@@ -1,2 +1,2 @@
 # FPGA
-Academic and personal project in VHDL
+Academic and personal projects in VHDL
